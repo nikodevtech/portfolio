@@ -229,3 +229,8 @@ $(document).ready(function() {
   }
   counterInit();
 });
+
+const btnDescargar = document.getElementById('btnDescargar');
+btnDescargar.addEventListener('click', function() {
+  window.open('CV_Nico.pdf', '_blank');
+});
