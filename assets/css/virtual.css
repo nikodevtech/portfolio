@@ -97,9 +97,6 @@ a:hover, a:active {
 }
 
 /* Image Responsive */
-#foto {
-    border:solid 5px #005CFF;
-}
 .img-place {
     position: relative;
     display: block;
